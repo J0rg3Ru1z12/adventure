@@ -18,6 +18,7 @@
 
 # The Last Light on Gull Island
 by: CS 1101
+Collaborators: Jorge Ruiz, Kevin Corpus, jocelyn huerta, Carlos Fuerte
 theme: paper
 
 ## dock
