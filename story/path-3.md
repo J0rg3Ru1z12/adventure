@@ -1,62 +1,78 @@
-<!--
-  PATH-3.MD: one teammate's part of the story.
-
-  Put your name after by: below. It's shown at the end of your endings.
-
-  Your first scene must be called path-3. The crossroads scene in start.md
-  links to #path-3, so that's how players get here. Everything else in this
-  file is yours: rewrite it, add scenes, add endings.
-
-  Cheat sheet:
-    ## scene-name                  starts a new scene (lowercase letters,
-                                   numbers and dashes, no spaces)
-    Any text you like.             a blank line starts a new paragraph
-    **bold**   *italic*
-    ![What the picture shows](images/my-picture.png)
-    get: lantern                   the player picks up a lantern
-    [Open the door](#hall)         a choice: leads to the scene called hall
-    [Unlock it](#vault) if key     a choice that only works if you have a key
-    THE END                        this scene is an ending
-
-  Lines inside these comment marks are notes. Players never see them.
--->
 
 by: jocelyn huerta
 
 ## path-3
-The beach is cold grey sand. The tide is out, and the ribs of an old boat poke out of the water near the rocks.
 
-The name on its side is almost worn away: *Abernathy's Pride*.
+Captain Inconvenience is eating pizza when the news suddenly announces that a giant evil duck has taken over City Hall!
 
-[Wade out to the wreck](#wreck)
-[Build a sandcastle](#sandcastle)
-[Go back to the crossroads](#crossroads)
+"I guess it's time to save the world!" he says, putting on his superhero costume.
 
-## sandcastle
-It's a very good sandcastle: four towers, a moat, and a flag made from a gull feather. You lose track of time completely.
+Unfortunately, he puts his underwear on backwards.
 
-When you finally look up, the fog has cleared and the sun is rising.
+[Go fight the giant duck](#duck-fight)
+[Hide in the supermarket](#supermarket)
+
+## duck-fight
+
+You arrive at City Hall. A giant duck named Quack Nicholson is holding the mayor hostage.
+
+"QUACK! GIVE ME ALL YOUR BREAD!" he screams.
+
+You pull out your most powerful weapon: a plastic spoon.
+
+[Attack the duck](#spoon-attack)
+[Try talking to the duck](#duck-talk)
+
+## spoon-attack
+
+You throw your plastic spoon at the duck. It bounces off its feathers and hits a hot dog stand.
+
+The duck laughs so hard that it accidentally drops the mayor!
+
+[Rescue the mayor](#hero-ending)
+[Run away](#duck-ending)
+
+## duck-talk
+
+You ask the duck why it wants to take over the city.
+
+"I JUST WANT FREE BREAD!" it screams.
+
+You offer it a sandwich, but accidentally eat it yourself.
+
+[Challenge the duck to a dance battle](#dance-battle)
+
+## dance-battle
+
+You start dancing. The duck dances too.
+
+After three minutes, the duck gets dizzy and falls into a giant pile of bread.
+
+[Rescue the mayor](#hero-ending)
+
+## supermarket
+
+You hide in the supermarket and discover a secret room filled with bread.
+
+A mysterious cashier gives you a golden bread key.
+
+[Return to fight the duck](#duck-fight)
+
+## hero-ending
+
+You rescue the mayor and save the city!
+
+The mayor gives you a medal and one free pizza.
+
+Unfortunately, you accidentally drop the medal into a storm drain.
 
 THE END
 
-## wreck
-The water is freezing. You climb into the wreck and find a rusty tin box wedged under a seat. Inside, wrapped in oilcloth, is a heavy iron key.
+## duck-ending
 
-get: iron key
+You run away, but Quack Nicholson catches you and makes you his personal bread delivery driver.
 
-The tide is starting to come back in.
+Your superhero career is officially over.
 
-[Hurry back to shore](#path-3)
-[Keep searching the wreck](#wreck-deeper)
+THE END
 
-## wreck-deeper
-You find a bent spoon, half a boot, and a crab who does not want to be found.
-
-When you turn around, the water is up to your chest.
-
-[Swim for it](#swim)
-
-## swim
-You swim, you splutter, and you crawl up onto the sand just as the waves close over the wreck.
-
-[Catch your breath](#path-3)
