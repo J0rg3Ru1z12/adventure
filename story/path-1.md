@@ -77,8 +77,6 @@ One points at a sign: "Entry FEE: BREAD."
 
 the other holds a tiny clipboard upside down -perfectly convenient for an incompetent starving duck.
 
-You could off them breacumbs, try your mosquito power, or claim you have an appointment
-
 [Distract the guards with breadcrumbs](#zoo-bread-distraction)
 [Summon a mosquito to distract them](#zoo-mosquito)
 [Claim to be Quack's lawyer](#zoo-lawyer)
@@ -117,7 +115,7 @@ you open your mouth.
 
 Nothing comes out.
 
-Quacknilious Charlson III grins widely.s
+Quacknilious Charlson III grins widely.
 
 "A real lawyer would have charged me. You are no Mike Ross."
 
@@ -177,10 +175,6 @@ The mayor stares at the broken handle.
 
 Before you can explain your backup plan—which was mostly running—Quacknilious's enormous shadow falls over you.
 
-You spend the rest of the afternoon sharing the cage with the mayor.
-
-He insists on discussing his reelection campaign.
-
 THE END
 
 ## zoo-unlock-cage
@@ -225,17 +219,7 @@ Quacknilious backs away.
 
 “That is clearly the opposite of cooling.”
 
-He retreats into the pond, shouting for his guards to arrest whoever approved the plumbing.
-
-You seize the opportunity and lead the mayor out through the maintenance gate.
-
-Outside, the mayor hands you a soggy piece of paper he found beneath Quacknilious's feeding bowl.
-
-It reads:
-
-“RADIOACTIVE LOAF DELIVERY CONFIRMED. PHASE TWO: ACTIVATE THE MACHINE BENEATH THE CITY.”
-
-You rescued the mayor, but the bread disaster is far from over.
+he throws a piece of bread at you and you fall unconcious
 
 THE END
 
