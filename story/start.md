@@ -64,7 +64,7 @@ Behind you, frightened shoppers pound on Walmart's locked doors. One claims to h
 
 Then the sidewalk trembles beneath your feet. Somewhere below the city, a mysterious machine begins to hum.
 
-You straighten your cape and consider your options.
+You straighten your cape and consider your options..
 
 [Go to the zoo and attempt to rescue the mayor](#path-1)
 
