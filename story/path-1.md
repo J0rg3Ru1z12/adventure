@@ -132,7 +132,7 @@ Inside are a first-aid kit, three expired coupons, and a key labeled:
 
 You pocket the key.
 
-get: cage-key
+'get: cage-key'
 
 Across the pond, Quacknilious is rehearsing his victory speech to a flock of deeply uninterested ducks.
 
@@ -154,11 +154,9 @@ The cage door is secured with a heavy padlock. Beside it sits a large metal wate
 
 Quacknilious's speech grows louder behind you.
 
-“AND UNDER MY LEADERSHIP, EVERY TUESDAY SHALL BE BREADNESDAY!”
-
 You probably have a few seconds before he turns around.
 
-[Unlock the cage with the spare key](#zoo-unlock-cage) if cage-key
+[Unlock the cage with the spare key](#zoo-unlock-cage)
 [Try to pick the lock with your plastic spoon](#zoo-spoon)
 [Retreat and look for a key](#path-1)
 
@@ -205,7 +203,7 @@ Steam does not rise. Nothing glows. Somewhere, a pigeon looks disappointed.
 
 You stand anyway.
 
-“ONE STEP CLOSER, QUAQuackniliousCK, AND YOU'RE GETTING A WARM BATH.”
+“ONE STEP CLOSER, Quacknilious, AND YOU'RE GETTING A WARM BATH.”
 
 Quacknilious freezes.
 
@@ -255,5 +253,5 @@ The guards return you both to the cage. This time, Quack confiscates your cape.
 The mayor calls that an improvement.
 
 THE END
-[Go back to the crossroads](#crossroads)
+
 
