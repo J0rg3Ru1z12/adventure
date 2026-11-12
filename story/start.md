@@ -33,7 +33,9 @@ three days ago, a mysterious piece of bread fell from space and landed on a pond
 Quacknilious took control of the city's ducks, established an underground special bread smuggling ring, and declared himself the ruler of Inconvenience City. 
 
 BUT.... there was only one person who can Save this Inconvenience City 
-[Continue] (#heros-call)
+[Continue](#heros-call)
+
+## heros-call
 
 The mayor attempted peaceful negotiations armed with a bag of breadcrumbs and an optimistic attitude. He was immediately taken hostage by Quacknilious Charlson III
 
@@ -51,7 +53,7 @@ Now, armed with a slightly bent plastic spoon and a cape that violates several b
 
 [Answer the city's call for help](#crossroads)
 
-## Crossroads
+## crossroads
 You stand in downtown Inconvenience City as Quack Nicholson's voice echoes through the streets.
 
 “YOUR BREAD BELONGS TO ME. YOU MAY KEEP THE HEEL PIECES.”
