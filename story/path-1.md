@@ -79,7 +79,7 @@ the other holds a tiny clipboard upside down -perfectly convenient for an incomp
 
 [Distract the guards with breadcrumbs](#zoo-bread-distraction)
 [Summon a mosquito to distract them](#zoo-mosquito)
-[Claim to be Quack's lawyer](#zoo-lawyer)
+[Claim to be Quack's lawyer](#zoo-mosquito)
 [Back away toward the entrance](#path-1)
 
 ## zoo-bread-distraction
@@ -132,7 +132,7 @@ Inside are a first-aid kit, three expired coupons, and a key labeled:
 
 You pocket the key.
 
-'get: cage-key'
+get: cage-key
 
 Across the pond, Quacknilious is rehearsing his victory speech to a flock of deeply uninterested ducks.
 
@@ -172,6 +172,32 @@ The mayor stares at the broken handle.
 “Was that your entire plan?”
 
 Before you can explain your backup plan—which was mostly running—Quacknilious's enormous shadow falls over you.
+
+"Well well... Poor performance indeed"
+
+Both you and the mayor look up to see Quacknilious grining widely, probably because he was watching this happen without you or the mayor knowing. Quacknilious then picks up the mayor and throws a convinient piece of bread at you. It lands on your head and immediately you feel yourself weaken.
+
+THUD
+
+You collapse beside your broken spoon
+
+Quacknilious checks the lock on the mayor's cage, then looks down to you with a grin.
+
+"Look at you Captain Inconvenience, down on the ground like a inconvenient hero should be"
+
+He sneers as his guards come in.
+
+"Take Captin Inconvenience to the cellar. Make sure he stays there seated in the most comfortable chair we have. Perfect back support. Everything within arms length."
+
+The guards gasp in horror.
+
+"S-Sir... isn't that a bit too cruel for an Inconvenient hero?"
+
+"Exactly. Make sure as well that there is a convenient parking spot right outside as well with the sun right in front, too."
+
+The guards pick you up and waddle away with you, still with that piece of convenient bread on your head to silence your power forever.
+
+Your last thought before losing consciouseness is that everything was going a bit too conveniently.
 
 THE END
 
