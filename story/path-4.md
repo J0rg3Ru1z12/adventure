@@ -30,6 +30,10 @@ Up close, the lighthouse is taller than it looked. Its white paint is peeling, a
 [Knock and hope someone answers](#knock)
 [Go back to the crossroads](#crossroads)
 
+get: iron key
+
+get: rusty key
+
 ## knock
 You knock. The sound echoes up the inside of the tower. Nobody answers.
 
@@ -38,10 +42,13 @@ Of course nobody answers. You're the keeper.
 [Step back](#path-4)
 
 ## stairs
-The key turns with a groan. Inside, a spiral staircase winds up into total darkness.
+The key turns with a groan. Inside, a spiral staircase winds up into total darkness. 
+
 
 [Climb in the dark](#fall)
 [Light your lantern and climb](#lamp-room) if lantern
+
+get: lantern
 
 ## fall
 Somewhere past step one hundred, your foot finds nothing at all. You sit down hard and decide to wait for morning.
