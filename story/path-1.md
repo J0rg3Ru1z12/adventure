@@ -156,7 +156,7 @@ Quacknilious's speech grows louder behind you.
 
 You probably have a few seconds before he turns around.
 
-[Unlock the cage with the spare key](#zoo-unlock-cage)
+[Unlock the cage with the spare key](#zoo-unlock-cage) if cage-key
 [Try to pick the lock with your plastic spoon](#zoo-spoon)
 [Retreat and look for a key](#path-1)
 
