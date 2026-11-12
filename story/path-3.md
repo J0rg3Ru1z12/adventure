@@ -54,9 +54,33 @@ After three minutes, the duck gets dizzy and falls into a giant pile of bread.
 
 You hide in the supermarket and discover a secret room filled with bread.
 
-A mysterious cashier gives you a golden bread key.
+Behind the counter, you find a golden bread key.
 
+get: golden bread key
+
+[Go to the secret door](#secret-door)
 [Return to fight the duck](#duck-fight)
+
+## secret-door
+
+You discover a giant mysterious door with a duck-shaped lock.
+
+A sign says: "ONLY THE HOLDER OF THE GOLDEN BREAD KEY MAY ENTER."
+
+[Unlock the door](#treasure-room) if golden bread key
+[Go back to the supermarket](#supermarket)
+
+## treasure-room
+
+Inside, you discover Quack Nicholson's secret bread machine!
+
+You find a giant red button labeled "DO NOT PRESS."
+
+Naturally, Captain Inconvenience presses it.
+
+The machine explodes into thousands of bread crumbs, and the ducks run away.
+
+[Celebrate and save the city](#hero-ending)
 
 ## hero-ending
 
@@ -75,4 +99,5 @@ You run away, but Quack Nicholson catches you and makes you his personal bread d
 Your superhero career is officially over.
 
 THE END
+
 
