@@ -79,7 +79,7 @@ the other holds a tiny clipboard upside down -perfectly convenient for an incomp
 
 [Distract the guards with breadcrumbs](#zoo-bread-distraction)
 [Summon a mosquito to distract them](#zoo-mosquito)
-[Claim to be Quack's lawyer](#zoo-mosquito)
+[Claim to be Quack's lawyer](#zoo-lawyer)
 [Back away toward the entrance](#path-1)
 
 ## zoo-bread-distraction
