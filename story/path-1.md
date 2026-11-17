@@ -149,17 +149,17 @@ get: golden bread key
 
 behind the shed, you notice a small door.
 
-[go to door](#secret-door)
+[go to door](#zoo-secret-door)
 [return to emergency box](#zoo-emergency-box)
 
-## secret-door
+## zoo-secret-door
 
 there is a smell of fresh bread coming from the door
 
 [unlock door with golden bread key](#secret-bread-ending) if golden bread key
 [return to emergency box](#zoo-emergency-box)
 
-## secreat-bread-ending
+## secret-bread-ending
 You unlock the door, and see Quacknilious's entire bread vault.
 
 Your uncontrolled mosquito flies in with you and lands on a loaf of bread.
