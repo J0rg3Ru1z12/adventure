@@ -139,6 +139,38 @@ Across the pond, Quacknilious is rehearsing his victory speech to a flock of dee
 The mayor spots you and gestures frantically toward the cage lock.
 
 [Go to the mayor's cage](#mayor-cage)
+[Inspect a golden glow](#golden-key)
+
+## golden-key
+
+You find expired coupons and see that there is a golden key in the shape of a slice of bread.
+
+get: golden bread key
+
+behind the shed, you notice a small door.
+
+[go to door](#secret-door)
+[return to emergency box](#zoo-emergency-box)
+
+## secret-door
+
+there is a smell of fresh bread coming from the door
+
+[unlock door with golden bread key](#secret-bread-ending) if golden bread key
+[return to emergency box](#zoo-emergency-box)
+
+## secreat-bread-ending
+You unlock the door, and see Quacknilious's entire bread vault.
+
+Your uncontrolled mosquito flies in with you and lands on a loaf of bread.
+
+Quacknilious enters in soon after seeing that his door was opened and sees your mosquito on his most prized loaf of bread. "You contaminated!"
+
+Quacknilious then runs off, leaving his building behind.
+
+You rescue the mayor and recieve a medal for being the most inconvenient hero.
+
+THE END
 
 
 ## mayor-cage
@@ -279,5 +311,4 @@ The guards return you both to the cage. This time, Quack confiscates your cape.
 The mayor calls that an improvement.
 
 THE END
-
 
